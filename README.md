@@ -1,10 +1,4 @@
-online editor<br/>
-Eric<br/>
-Anmol<br/>
-Ganganaar<br/>
-Pointless text<br/>
-another text<br/>
-City added<br/>
+IIIT_ALLAHABAD
  ### Information
  Name - Aditya Sharma<br/>
  UserName - im-adi<br/>
